@@ -8,7 +8,8 @@ public class SpringbootdockerprojectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootdockerprojectApplication.class, args);
-		System.out.println("Hello World Docker");
+		System.out.println("Hello World Docker Image");
+		System.out.println("Hi I am learning Docker");
 	}
 
 }
